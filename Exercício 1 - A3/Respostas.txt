@@ -1,0 +1,15 @@
+/* Adicione os métodos ligar() e desligar() ao exercício da classe Carro entregue anteriormente. Apresente uma solução de como mostrar ao usuário se o carro está ou não ligado. */
+
+ Para manter o usuário atualizado quanto ao status do carro (ligado/ desligado), ao iniciar o programa eu pergunto se é da vontade do usuário ligar o carro. Se a resposta for sim, os passos do exercício anterior são feitos, caso contrário, o status já afirma que o carro está desligado. Seguindo esse raciocínio, após cada pergunta feita, o status é mostrado na tela e o usuário tem controle de suas "ações" ao longo de todo o programa,sempre sabendo se o carro está ligado ou não, como pode ser visto ao executar o arquivo "Main2.java". 
+
+1. Programação Orientada a Objetos é uma forma de programar onde cada objeto tem suas ações separadas e com métodos próprios, criando uma outra forma de organização no código, com atenção para cada objeto criado.
+
+2. As propriedades de um objeto são as características que esse objeto tem, o que é comum para objetos semelhantes a esse referenciado. Já os comportamentos, são as ações que podem ser feitas com ele. Exemplo com o objeto celular: como propriedade podemos ter cor, tamanho de tela, marca; e como comportamentos podemos ter fazer uma ligação, mandar mensagem e configurar um despertador.
+
+3. Uma variável de instância é um atributo que é específico de um objeto. Pode-se ter outras variáveis na classe como "gerais", mas quando estamos fazendo operações no objeto, as variáveis de instância que são definidas. 
+
+4. Um método é algo parecido com uma função, pois nos métodos podemos criar ou modificar variáveis e programar ações que poderão ser feitas quando esse método for chamado.
+
+5. Temos que "Person" é uma classe criada anteriormente, no mesmo arquivo ou em um secundário. O "p" é o novo objeto, e será através dessa nomenclatura que as operações serão feitas com ele. O sinal de igual é para fazer uma atribuição. Por fim, o "new Person("João")" está fazendo com que o objeto seja atribuído à classe, sabendo que João é uma referência necessária para essa classe, o nome que será registrado na classe.
+
+6. É possível acessar um atributo de uma classe utilizando o ponto (.). Como exemplo seguindo o exercício do carro anterior, posso acessar e imprimir o atributo "marca" utilizando a seguinte sintaxe: System.out.println(carro.marca), onde pode-se ver o acesso ao método dentro dos parênteses.
