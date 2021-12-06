@@ -1,0 +1,7 @@
+Ex 2 - Caso a palavra 'abstract' fosse omitida, a classe teria que passar argumento, ou seja, ter atributos e uma
+estrutura específica que teria de ser usada em todas as derivadas dessa classe (subclasses). Isso se deve pois a
+classe abstrata serve para que nós possamos usar uma pré estrutura de um método/ classe e para podermos customizá-los
+em outras chamadas, não necessitando de usar sempre a estrutura estabelecida.
+
+Ex 3 - A classe abstrata não pode ser instanciada pois assim podemos utilizá-la posteriormente acrescentando as
+instâncias que quisermos, não necessitando de ficar 'preso' em uma estrutura estabelecida.
