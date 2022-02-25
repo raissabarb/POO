@@ -1,0 +1,5 @@
+Letras totais: 42
+Consoantes: 21
+Vogais: 10
+Números: 1
+Outros caracteres: 10
