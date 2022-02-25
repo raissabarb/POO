@@ -1,0 +1,3 @@
+Amarelo -> 12
+Preto -> 01
+Rosa -> 05
