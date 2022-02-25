@@ -1,0 +1,15 @@
+Primeira saída - imprimeAlgo(0)
+
+-> '*'
+
+Segunda saída - imprimeAlgo(1)
+
+-> '[*,*]'
+
+Terceira saída - imprimeAlgo(2)
+
+-> '[[*,*],[*,*]]'
+
+Quarta saída - imprimeAlgo(3)
+
+-> '[[[*,*],[*,*]],[[*,*],[*,*]]]'
