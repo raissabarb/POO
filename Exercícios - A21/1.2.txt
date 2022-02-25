@@ -1,0 +1,3 @@
+Escolhi o Object Adapter por conta de dar maior flexibilidade ao usuário,
+não necessitando que ele use uma interface java e também para poder acoplar
+num espaço menor.
